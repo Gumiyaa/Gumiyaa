@@ -14,6 +14,11 @@
 Location: Indonesia 🇮🇩
 ```
 
+<p align="center">
+
+I am a curious and motivated individual who enjoys learning new things, embracing challenges, and continuously improving myself. I believe in personal growth and always strive to develop my skills and knowledge
+
+</p>
 
 <p align="center">
 
