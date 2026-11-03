@@ -17,6 +17,6 @@ Location: Indonesia 🇮🇩
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,vuejs,react,nextjs,vite,tailwindcss,nodejs,expressjs,mysql,postgres,sqlite,prisma,git,github,githubactions,docker,vscode,figma,cs,unity,blender&perline=7" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,vuejs,react,nextjs,vite,tailwindcss,nodejs,expressjs,mysql,postgres,sqlite,prisma,git,github,githubactions,docker,vscode,figma,cs,unity&perline=7" alt="Tech stack" />
 
 </p>
